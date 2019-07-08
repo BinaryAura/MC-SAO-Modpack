@@ -7,9 +7,13 @@ assignees: BinaryAura
 
 ---
 
+## Description
+
+Short Description of the Mod here
+
 ## Features
 
-Describe the Mod's features Here
+List the features Here
 
 ## URL
 
