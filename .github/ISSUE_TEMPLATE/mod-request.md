@@ -13,8 +13,10 @@ Short Description of the Mod here
 
 ## Features
 
-List the features Here
++ List
++ the features
++ Here
 
 ## URL
 
-Provide a link to the Mod Here
+<Provide a link to the Mod Here>
